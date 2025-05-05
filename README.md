@@ -5,7 +5,7 @@ A custom Homebrew tap for terminal-native tools that integrate with ChatGPT.
 ## 🚀 Installation
 
 ```bash
-brew tap matthewmorales/chatgpt-tools
+brew tap mattmorales/chatgpt-tools
 brew install chatgpt-helper'
 ```
 
