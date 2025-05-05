@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ChatGPT Terminal Assistant with gum + osascript
-# Uses your ChatGPT Plus plan via the Mac app (no API costs)
+# Uses your ChatGPT plan via the Mac app (no API costs)
 # Compatible with macOS: uses tail -r instead of tac
 
 HISTORY_FILE="$HOME/.chatgpt-prompt-history.log"
